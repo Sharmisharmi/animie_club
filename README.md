@@ -25,8 +25,15 @@ A modern Android application for anime lovers, built with **Kotlin**, **XML-base
 | [Material Components](https://material.io/develop/android) | Custom UI elements |  
 
 ## 📷 Screenshots  
-<!-- Add your app screenshots here -->  
-<img src="screen_shot_1.png" width="250"> <img src="screenshot2.png" width="250">  
+<div style="display: flex; justify-content: center; align-items: center; padding: 90px;">
+  <img src="https://github.com/Sharmisharmi/animie_club/blob/master/screen_shot_1.jpeg" width="35%" height="35%" style="margin-right: 20px;">
+  <img src="https://github.com/Sharmisharmi/animie_club/blob/master/screen_shot_2.jpeg" width="35%" height="35%">
+</div>
+
+
+
+
+
 
 ## 🔗 API Integration  
 The app fetches anime data from a REST API using **Retrofit** and plays trailers using **Android YouTube Player**.  
